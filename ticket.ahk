@@ -156,7 +156,7 @@ Sel:
 
             } else if (errorlevel = 1) {
             ;MsgBox, %vRange1X%, %vRange1Y%, %vRange2X%, %vRange2Y%, 0x%vColor% 못찾았습니다.
-            MsgBox, 색상을 찾지 못했습니다.
+            ;MsgBox, 색상을 찾지 못했습니다.
             break
             }
             
