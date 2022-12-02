@@ -159,7 +159,7 @@ Sel:
             ;MsgBox, 색상을 찾지 못했습니다.
             break
             } else {
-            ;MsgBox, 색상 검색 오류
+            ;MsgBox, 색상검색 오류
             break
             }
             
